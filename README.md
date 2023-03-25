@@ -2,6 +2,10 @@
 
 This module for GCP will create dataset used by the Google billboard and provide link to create the associated Looker Studio dashboard.
 
+![GCP Billboard v3.0](https://cloud.google.com/static/billing/docs/images/visualize-tutorial-dashboard.png)
+
+> source: https://cloud.google.com/billing/docs/how-to/visualize-data
+
 This work is based on [GoogleCloudPlatform/professional-services/examples/billboard](https://github.com/GoogleCloudPlatform/professional-services/tree/main/examples/billboard).
 
 For a guided deployment using Cloud Shell (not Terraform), you can use the walkthrough tutorial available in the previous link.
