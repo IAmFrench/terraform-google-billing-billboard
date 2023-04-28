@@ -8,6 +8,9 @@ authors:
   - orcid: "https://orcid.org/0009-0002-1956-1126"
     given-names: Alexandre
     family-names: PARÈS
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7876419
 repository-code: >-
   https://github.com/IAmFrench/terraform-google-billing-billboard
 repository-artifact: >-
