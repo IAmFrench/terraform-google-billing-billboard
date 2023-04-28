@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Google Cloud billing billboard Terraform Module
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: "https://orcid.org/0009-0002-1956-1126"
+    given-names: Alexandre
+    family-names: PARÈS
+repository-code: >-
+  https://github.com/IAmFrench/terraform-google-billing-billboard
+repository-artifact: >-
+  https://registry.terraform.io/modules/IAmFrench/billing-billboard/google/latest
+abstract: >-
+  Terraform Module for Google Cloud billing billboard.
+keywords:
+  - terraform
+  - terraform-modules
+  - gcp
+  - google-cloud
+  - google-billing
+  - google-billing-billboard
+  - looker-studio
+license: Apache-2.0
